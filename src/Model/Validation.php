@@ -22,7 +22,7 @@ class Validation
     } 
     public static function validateCNPJ(string $CNPJ): bool
     {
-        return $CNPJ == 9;
+        return $CNPJ == 11;
     }
     public static function validateNome(string $nome): bool
     {

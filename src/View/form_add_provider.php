@@ -33,13 +33,13 @@
 <label for="contato" >Adicionar Contato:</label>
 <input type="text" id="contato" name="contato" class="border border-blue-400" min=1 max=100 placeholder = "00000-0000">
 </article>
-
+<article>
 <label for="CNPJ" >CNPJ:</label>
 <input type="text" id="CNPJ" name="CNPJ" class="border border-blue-400" min=1 max=100>
-
+</article>
+<article>
 <label for="Nome" >Nome:</label>
 <input type="text" id="Nome" name="Nome" class="border border-blue-400">
-
 </article>
 
 </section>
